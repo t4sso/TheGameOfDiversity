@@ -11,3 +11,8 @@ I began by creating a few playground pages on Xcode, and eventually moved them t
 In order to keep the user interested in exploring the topic, I had to design simple, colorful graphics, and convey a feeling of  real, breathing life in the abstract representations of species, genes, and ecosystems. The circle was a basic symbol for everything in this game.
 
 I created some basic shapes to represent the concepts/nodes, and then used Swift’s trigonometric functions to calculate their movements and positions. Most shapes are simple path-based drawings by Core Graphics. The result is a color managed, high-fidelity output that works well on any display. SpriteKit allowed me to add animations and effects and managed creating and moving all nodes, handling synchronization, interactions and animation sequences. 
+
+Frameworks used:
+- SpriteKit
+- UIKit
+- Core Graphics
