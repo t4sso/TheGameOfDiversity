@@ -1,6 +1,6 @@
 # The Game of Diversity
 
-![The Game of Diversity](https://github.com/t4sso/TheGameOfDiversity/blob/master/TheGameOfDiversity/Assets/The-Game-of-Diversity.gif?raw=true)
+![The Game of Diversity](Assets/The-Game-of-Diversity.gif?raw=true)
 
 ## My WWDC 2018 scholarship submission (accepted).
 
