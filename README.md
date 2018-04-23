@@ -1,6 +1,6 @@
 # The Game of Diversity
 
-![The Game of Diversity](Assets/The-Game-of-Diversity.gif?raw=true)
+![The Game of Diversity](Assets/The%20Game%20of%20Diversity.gif?raw=true)
 
 ## My WWDC 2018 scholarship submission (accepted).
 
