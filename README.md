@@ -1,7 +1,7 @@
 # The Game of Diversity
 ## My WWDC 2018 scholarship submission (accepted).
 
-![The Game of Diversity demo](Assets/The Game of Diversity.gif)
+(Assets/The Game of Diversity.gif)
 
 The goal with this playground was to explore how to best convey the importance of diversity to a young audience. Biodiversity (as an example from nature) but also social and cultural diversity have traditionally been explained in a dry, academic way. I wanted to create a better way. I wanted young kids to visually explore this concept by interacting with the iPad, get more engaged and ‘feel’ the importance of diversity more deeply.
 
